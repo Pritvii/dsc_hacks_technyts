@@ -1,4 +1,4 @@
-# Team TechNyts - Aid for Life
+# Team TechNyts 
 ![](/Screenshots%20Aid%20for%20life/AID's%20for%20LIFE.png)
 
 ## Problem Statement
